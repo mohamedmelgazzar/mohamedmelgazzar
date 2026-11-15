@@ -38,4 +38,4 @@ A shared team inbox for businesses, connected to the Meta WhatsApp Cloud API as 
 **Networking & security:** TCP/IP · subnetting · DHCP / DNS · firewalls · Wireshark · Nmap
 
 ### Contact
-[Portfolio](https://etroshly.com/me/) · [LinkedIn](https://linkedin.com/in/mohamed-elgazzar-266a68385) · Arabic (native) · English (professional)
+[Portfolio](https://etroshly.com/me/) · [LinkedIn](https://linkedin.com/in/mohamed-elgazzar-266a68385) · 📞 [+971 54 175 0084](tel:+971541750084) · Arabic (native) · English (professional)
