@@ -2,6 +2,8 @@
 
 **AI & Automation Builder · Junior Network / Systems Engineer** · Ajman, UAE
 
+🎮 **[Play my portfolio: etroshly.com/me](https://etroshly.com/me/)**: a pixel-art game with my projects, skills and experience.
+
 Computer Science graduate (Alexandria University, 2025) who builds working systems: a production SaaS messaging platform, AI-in-the-loop automations, and a mobile app on Google Play. Background in networking and security from the ITI Cyber Security Internship.
 
 ---
@@ -36,4 +38,4 @@ A shared team inbox for businesses, connected to the Meta WhatsApp Cloud API as 
 **Networking & security:** TCP/IP · subnetting · DHCP / DNS · firewalls · Wireshark · Nmap
 
 ### Contact
-[LinkedIn](https://linkedin.com/in/mohamed-elgazzar-266a68385) · Arabic (native) · English (professional)
+[Portfolio](https://etroshly.com/me/) · [LinkedIn](https://linkedin.com/in/mohamed-elgazzar-266a68385) · Arabic (native) · English (professional)
